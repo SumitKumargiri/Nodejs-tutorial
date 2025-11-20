@@ -4,10 +4,8 @@ Here is a one-file `README.md` — clean, formatted, and ready to upload to GitH
 
 👉 Copy & Paste this directly into your `README.md` file
 
-``
 ## 🛠 Installation & Setup
 
-``
 ### 1️⃣ Clone the Repository
 ```
 git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
@@ -23,12 +21,9 @@ npm install swagger-ui-express
 npm install swagger-jsdoc swagger-ui-express
 
 ``````
-
-``
 # 🚀 Node.js + PostgreSQL + Swagger API
-
 A clean and professional REST API built with Node.js (Express), PostgreSQL, and Swagger UI for automatic API documentation.
-``
+
 ## 📌 Features
 ```````
 - ✔ REST API using Express  
