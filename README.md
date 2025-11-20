@@ -20,12 +20,10 @@ A clean and professional REST API built with Node.js (Express), PostgreSQL, and 
 - ✔ Clean folder structure  
 - ✔ Easy to extend and deploy  
 
----
+````````
 
 ## 📂 Project Structure
-
-```
-
+````````````
 .
 ├── index.js
 ├── swagger.json
@@ -33,10 +31,7 @@ A clean and professional REST API built with Node.js (Express), PostgreSQL, and 
 ├── .gitignore
 └── README.md
 
-```
-
----
-```````
+````````````
 ## 🛠 Installation & Setup
 
 `````
