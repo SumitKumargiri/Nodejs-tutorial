@@ -1,4 +1,4 @@
-Here is an one-file `README.md` — clean, formatted, and ready to upload to GitHub.
+Here is a one-file `README.md` — clean, formatted, and ready to upload to GitHub.
 
 ---
 
@@ -36,37 +36,29 @@ A clean and professional REST API built with Node.js (Express), PostgreSQL, and 
 ```
 
 ---
-
+```````
 ## 🛠 Installation & Setup
 
+`````
 ### 1️⃣ Clone the Repository
-
-```
 
 git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 cd your-repo-name
 
-```
-
+```````
 ### 2️⃣ Install Required Packages
 
-```
-
+`````
 npm install
 npm install cors
 npm install pg
 npm install swagger-ui-express
 npm install swagger-jsdoc swagger-ui-express
 
-```
-
----
-
+``````
 ## ⚙️ Environment Setup
-
-Create a `.env` file in the project root:
-
 ```
+Create a `.env` file in the project root:
 
 DB_USER=postgres
 DB_PASSWORD=yourpassword
@@ -75,33 +67,23 @@ DB_PORT=5432
 DB_NAME=EnglishBuddy
 PORT=3000
 
-```
-
----
+`````
 
 ## ▶️ Start the Server
 
-```
-
+````
 npm start
 
-```
-
+````
 Server runs at:
-
-```
 
 [http://localhost:3000](http://localhost:3000)
 
 ```
 
----
-
 ## 📘 Swagger Documentation
 
 Access API documentation:
-
-```
 
 [http://localhost:3000/swagger](http://localhost:3000/swagger)
 
@@ -125,40 +107,33 @@ GET /employees/:id
 
 ```
 
----
-
 ## 🧰 Technologies Used
-
+````
 - Node.js  
 - Express.js  
 - PostgreSQL  
 - Swagger UI  
-- CORS  
+- CORS
 
----
+`````
 
 ## 🤝 Contributing
-
 Contributions, issues, and feature requests are welcome!  
 Feel free to open a PR.
 
 ---
 
 ## 📜 License
-
 Released under the MIT License.
 
 ---
 
- 👨‍💻 Author
-
-**Your Name  
+ 👨‍💻 Author 
 GitHub: https://github.com/SumitKumargiri/  
 ```
 
----
 
-# Want me to customize this?
+# Would you like me to customize this?
 
 ✔ Add your name
 ✔ Add your GitHub repo link
