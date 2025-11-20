@@ -47,8 +47,7 @@ cd your-repo-name
 
 ```````
 ### 2️⃣ Install Required Packages
-
-`````
+```
 npm install
 npm install cors
 npm install pg
