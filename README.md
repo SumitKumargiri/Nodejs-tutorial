@@ -5,14 +5,13 @@ Here is a one-file `README.md` — clean, formatted, and ready to upload to GitH
 👉 Copy & Paste this directly into your `README.md` file
 
 ```md
+``````````
 # 🚀 Node.js + PostgreSQL + Swagger API
 
 A clean and professional REST API built with Node.js (Express), PostgreSQL, and Swagger UI for automatic API documentation.
-
----
-
+``
 ## 📌 Features
-
+```````
 - ✔ REST API using Express  
 - ✔ PostgreSQL connection using `pg`  
 - ✔ Swagger UI documentation  
